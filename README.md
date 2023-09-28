@@ -15,7 +15,13 @@ This documentation provides an overview of the HMV Courier database structure an
 
 ### 2. Database Structure <a name="database-structure"></a>
 
+
+
 The HMV Courier database consists of the following tables:
+Also this is the sql code you put into the sql writer 
+can be downloaded on the repository
+at
+<a href="https://github.com/hmv-courier/internal-docs/blob/main/hmv-courier%20(1).sql">Sql code</a>
 
 #### 2.1 `admin_user`
 
